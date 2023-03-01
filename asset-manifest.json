@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/react-slack/static/css/main.650b43d6.css",
-    "main.js": "/react-slack/static/js/main.552a45bf.js",
+    "main.css": "/react-slack/static/css/main.184485b7.css",
+    "main.js": "/react-slack/static/js/main.2652644e.js",
     "static/js/787.fe3f49a2.chunk.js": "/react-slack/static/js/787.fe3f49a2.chunk.js",
+    "static/media/summernote.eot": "/react-slack/static/media/summernote.bd0d8be1fbad3612dfe1.eot",
+    "static/media/summernote.ttf": "/react-slack/static/media/summernote.b293d601cf1cddd1a1b4.ttf",
+    "static/media/summernote.woff": "/react-slack/static/media/summernote.08c343ff91f188dfc1a7.woff",
+    "static/media/summernote.woff2": "/react-slack/static/media/summernote.7c9436ed8d2deac04e37.woff2",
     "index.html": "/react-slack/index.html",
-    "main.650b43d6.css.map": "/react-slack/static/css/main.650b43d6.css.map",
-    "main.552a45bf.js.map": "/react-slack/static/js/main.552a45bf.js.map",
+    "main.184485b7.css.map": "/react-slack/static/css/main.184485b7.css.map",
+    "main.2652644e.js.map": "/react-slack/static/js/main.2652644e.js.map",
     "787.fe3f49a2.chunk.js.map": "/react-slack/static/js/787.fe3f49a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.650b43d6.css",
-    "static/js/main.552a45bf.js"
+    "static/css/main.184485b7.css",
+    "static/js/main.2652644e.js"
   ]
 }

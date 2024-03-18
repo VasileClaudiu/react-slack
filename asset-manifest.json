@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-slack/static/css/main.fe171247.css",
-    "main.js": "/react-slack/static/js/main.530370b5.js",
+    "main.js": "/react-slack/static/js/main.3c6c138e.js",
     "static/js/787.fe3f49a2.chunk.js": "/react-slack/static/js/787.fe3f49a2.chunk.js",
     "static/media/fa-solid-900.ttf": "/react-slack/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/react-slack/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
@@ -10,6 +10,7 @@
     "static/media/fa-regular-400.ttf": "/react-slack/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/shield-1.png": "/react-slack/static/media/shield-1.a961da9569e66174ca3b.png",
     "static/media/cover.png": "/react-slack/static/media/cover.d27b2aa287cdc0a9c7e5.png",
+    "static/media/logo-spiral-double.png": "/react-slack/static/media/logo-spiral-double.ab87b08e41d64ac3120c.png",
     "static/media/helmet-1.png": "/react-slack/static/media/helmet-1.d082cb3c8e66546d8921.png",
     "static/media/potion-1.png": "/react-slack/static/media/potion-1.94e34273991220b1f174.png",
     "static/media/scroll-1.png": "/react-slack/static/media/scroll-1.135e1c7d24aef8a9cd61.png",
@@ -76,11 +77,11 @@
     "static/media/1-caro.JPG": "/react-slack/static/media/1-caro.cf6aa41d57b22fec9f75.JPG",
     "index.html": "/react-slack/index.html",
     "main.fe171247.css.map": "/react-slack/static/css/main.fe171247.css.map",
-    "main.530370b5.js.map": "/react-slack/static/js/main.530370b5.js.map",
+    "main.3c6c138e.js.map": "/react-slack/static/js/main.3c6c138e.js.map",
     "787.fe3f49a2.chunk.js.map": "/react-slack/static/js/787.fe3f49a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe171247.css",
-    "static/js/main.530370b5.js"
+    "static/js/main.3c6c138e.js"
   ]
 }
